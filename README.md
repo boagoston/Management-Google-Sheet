@@ -3,9 +3,9 @@ Programa em Python direcionado a Tunts
 
 # Requirements
 
-1.Python 3.8.8
-2.Pip 20.2.3
-3.gspread oauth2client
+1. Python 3.8.8
+2. Pip 20.2.3
+3. gspread oauth2client
 
 # Installation:
 
