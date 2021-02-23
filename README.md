@@ -1,13 +1,13 @@
 # DesafioTunts
 Programa em Python direcionado a Tunts 
 
-#Requirements
+# Requirements
 
-Python 3.8.8
-Pip 20.2.3
-gspread oauth2client
+1.Python 3.8.8
+2.Pip 20.2.3
+3.gspread oauth2client
 
-#Installation:
+# Installation:
 
 1. Install python from https://www.python.org/downloads/
 2. Set path in Environment Variables
@@ -19,10 +19,11 @@ gspread oauth2client
 3. Verify if pip is working " pip --version "
 4. Install gspred " pip install gspread oauth2client
 
-Running code:
+# Running code:
 
-1. Go to the folder DesafioTunts
-2. Insert " python3 spreads.py "
-3. Wait process plan content
+1. Download DesafioTunts last commit
+2. Go to the folder DesafioTunts
+3. Insert " python3 spreads.py "
+4. Wait process plan content
 
 	
