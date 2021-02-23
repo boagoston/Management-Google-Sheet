@@ -18,7 +18,7 @@ total_grades = 3
 total_classes = 60
 approved_grade = 70
 disapproved_grade = 50
-logging.basicConfig(filename='example.log',level=logging.INFO, filemode='w')
+logging.basicConfig(filename='log.log',level=logging.INFO, filemode='w')
 
 def presence_calc(total, total_student):  # calculates frequency of student and set result if frequency under 25% of total classes
 
