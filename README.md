@@ -23,7 +23,7 @@ Program in python to access a google plan and update grade info
 
 1. Download DesafioTunts last commit
 2. Open CMD (start the Run box (Windows + R) and enter "cmd" 
-3. Insert " python3 main.py "
+3. Insert " python main.py "
 4. Wait process plan content
 5. If you want see change made, open log file
 
