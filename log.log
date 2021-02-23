@@ -1,0 +1,74 @@
+INFO:root:Programm started
+INFO:root:Plan loaded 
+INFO:root:Eduardo info load in list
+INFO:root:Eduardo updated in Google Sheets Plan
+INFO:root:['1', 'Eduardo', '8', '35', '63', '61', 'Exame Final', 47]
+INFO:root:Murilo info load in list
+INFO:root:Murilo updated in Google Sheets Plan
+INFO:root:['2', 'Murilo', '8', '64', '97', '36', 'Exame Final', 35]
+INFO:root:Guilherme info load in list
+INFO:root:Guilherme updated in Google Sheets Plan
+INFO:root:['3', 'Guilherme', '19', '68', '74', '51', 'Reprovado por Falta', 0]
+INFO:root:Flavia  info load in list
+INFO:root:Flavia  updated in Google Sheets Plan
+INFO:root:['4', 'Flavia ', '23', '66', '98', '62', 'Reprovado por Falta', 0]
+INFO:root:Ruan info load in list
+INFO:root:Ruan updated in Google Sheets Plan
+INFO:root:['5', 'Ruan', '13', '80', '65', '41', 'Exame Final', 38]
+INFO:root:Arnando info load in list
+INFO:root:Arnando updated in Google Sheets Plan
+INFO:root:['6', 'Arnando', '23', '83', '68', '77', 'Reprovado por Falta', 0]
+INFO:root:Lucas info load in list
+INFO:root:Lucas updated in Google Sheets Plan
+INFO:root:['7', 'Lucas', '5', '38', '53', '80', 'Exame Final', 43]
+INFO:root:Fabio info load in list
+INFO:root:Fabio updated in Google Sheets Plan
+INFO:root:['8', 'Fabio', '10', '53', '96', '89', 'Aprovado', 0]
+INFO:root:Alisson info load in list
+INFO:root:Alisson updated in Google Sheets Plan
+INFO:root:['9', 'Alisson', '15', '45', '61', '68', 'Exame Final', 42]
+INFO:root:Felipe info load in list
+INFO:root:Felipe updated in Google Sheets Plan
+INFO:root:['10', 'Felipe', '12', '32', '41', '85', 'Exame Final', 48]
+INFO:root:Rachel info load in list
+INFO:root:Rachel updated in Google Sheets Plan
+INFO:root:['11', 'Rachel', '11', '84', '66', '39', 'Exame Final', 37]
+INFO:root:Jouy info load in list
+INFO:root:Jouy updated in Google Sheets Plan
+INFO:root:['12', 'Jouy', '13', '42', '93', '57', 'Exame Final', 36]
+INFO:root:François info load in list
+INFO:root:François updated in Google Sheets Plan
+INFO:root:['13', 'François', '19', '59', '87', '89', 'Reprovado por Falta', 0]
+INFO:root:Dâmaris info load in list
+INFO:root:Dâmaris updated in Google Sheets Plan
+INFO:root:['14', 'Dâmaris', '10', '44', '50', '62', 'Exame Final', 48]
+INFO:root:Leonardo info load in list
+INFO:root:Leonardo updated in Google Sheets Plan
+INFO:root:['15', 'Leonardo', '16', '83', '92', '32', 'Reprovado por Falta', 0]
+INFO:root:Guilherme  info load in list
+INFO:root:Guilherme  updated in Google Sheets Plan
+INFO:root:['16', 'Guilherme ', '6', '36', '38', '76', 'Exame Final', 50]
+INFO:root:Wesley info load in list
+INFO:root:Wesley updated in Google Sheets Plan
+INFO:root:['17', 'Wesley', '16', '41', '52', '87', 'Reprovado por Falta', 0]
+INFO:root:Yuri info load in list
+INFO:root:Yuri updated in Google Sheets Plan
+INFO:root:['18', 'Yuri', '2', '87', '75', '50', 'Aprovado', 0]
+INFO:root:Kira info load in list
+INFO:root:Kira updated in Google Sheets Plan
+INFO:root:['19', 'Kira', '8', '36', '46', '48', 'Reprovado por Nota', 0]
+INFO:root:Cleici info load in list
+INFO:root:Cleici updated in Google Sheets Plan
+INFO:root:['20', 'Cleici', '22', '91', '88', '92', 'Reprovado por Falta', 0]
+INFO:root:João Moacir info load in list
+INFO:root:João Moacir updated in Google Sheets Plan
+INFO:root:['21', 'João Moacir', '23', '38', '90', '98', 'Reprovado por Falta', 0]
+INFO:root:Bruno info load in list
+INFO:root:Bruno updated in Google Sheets Plan
+INFO:root:['22', 'Bruno', '15', '96', '37', '100', 'Aprovado', 0]
+INFO:root:Elcio info load in list
+INFO:root:Elcio updated in Google Sheets Plan
+INFO:root:['23', 'Elcio', '9', '73', '71', '75', 'Aprovado', 0]
+INFO:root:Criscia info load in list
+INFO:root:Criscia updated in Google Sheets Plan
+INFO:root:['24', 'Criscia', '0', '50', '95', '84', 'Aprovado', 0]
