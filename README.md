@@ -21,9 +21,9 @@ Program in python to access a google plan and update grade info
 
 # Running code:
 
-1. Download Managment-Google-Sheet last commit
+1. Download Management-Google-Sheet last commit
 2. Open CMD (start the Run box (Windows + R) and enter "cmd" 
-3. Go to Managment-Google-Sheet folder 
+3. Go to Management-Google-Sheet folder 
 4. Insert " python main.py "
 5. Wait process plan content
 6. If you want see change made, open log file
