@@ -1,4 +1,4 @@
-# DesafioTunts
+#  Management-Google-Sheet 
 Program in python to access a google plan and update grade info 
 
 # Requirements
